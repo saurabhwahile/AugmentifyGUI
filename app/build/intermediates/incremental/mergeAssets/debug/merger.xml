@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="D:\Programming\Android\Programs\AugmentifyGUI\app\src\main\assets"><file name="Fonts/Neris-Black.otf" path="D:\Programming\Android\Programs\AugmentifyGUI\app\src\main\assets\Fonts\Neris-Black.otf"/></source></dataSet><dataSet config="debug"><source path="D:\Programming\Android\Programs\AugmentifyGUI\app\src\debug\assets"/></dataSet></merger>

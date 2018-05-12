@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Programming\Android\Programs\AugmentifyGUI\app\libs\gson-2.3.1.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="ecb6e1f8e4b0e84c4b886c2f14a1500caf309757">
+        <dex dex="C:\Programming\Android\Programs\AugmentifyGUI\app\build\intermediates\pre-dexed\debug\gson-2.3.1-66e81795c295f6312fa184430624aa4fe7e62719.jar" />
+    </item>
+    <item
+        jar="C:\Users\Saurabh\.gradle\caches\modules-2\files-2.1\org.apache.httpcomponents\httpcore\4.3.3\f91b7a4aadc5cf486df6e4634748d7dd7a73f06d\httpcore-4.3.3.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="f91b7a4aadc5cf486df6e4634748d7dd7a73f06d">
+        <dex dex="C:\Programming\Android\Programs\AugmentifyGUI\app\build\intermediates\pre-dexed\debug\httpcore-4.3.3-5f7a1cb7de28580687bbad49de9734c01e9eb96d.jar" />
+    </item>
+    <item
+        jar="C:\Programming\Android\Programs\AugmentifyGUI\app\libs\volley.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="158349638733f84630f5476f464d31300f879f61">
+        <dex dex="C:\Programming\Android\Programs\AugmentifyGUI\app\build\intermediates\pre-dexed\debug\volley-4b06ed0b6c63269299e7e97dcc18837a636e29dd.jar" />
+    </item>
+    <item
+        jar="C:\Programming\Android\Programs\AugmentifyGUI\app\libs\zbar.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="7bbdf7ba57a8a157c0cad51e455609c70887812e">
+        <dex dex="C:\Programming\Android\Programs\AugmentifyGUI\app\build\intermediates\pre-dexed\debug\zbar-fe52477ddc1e63fbb61964bdbb0bb2955e622721.jar" />
+    </item>
+    <item
+        jar="C:\adt-bundle\sdk\extras\android\m2repository\com\android\support\support-v4\19.1.0\support-v4-19.1.0.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="85f201b380937e61a9dce6ca90ccf6872abbfb67">
+        <dex dex="C:\Programming\Android\Programs\AugmentifyGUI\app\build\intermediates\pre-dexed\debug\support-v4-19.1.0-2147e9caaf8f795d8615e9bda55065eba5ed65c4.jar" />
+    </item>
+    <item
+        jar="C:\Programming\Android\Programs\AugmentifyGUI\app\libs\picasso-2.1.1.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="ab19bfb23f641f189b6dca9a4d393f8dc291103a">
+        <dex dex="C:\Programming\Android\Programs\AugmentifyGUI\app\build\intermediates\pre-dexed\debug\picasso-2.1.1-d591867a528dcee5ed44f1ff9e10c755a0ae6afa.jar" />
+    </item>
+    <item
+        jar="C:\Users\Saurabh\.gradle\caches\modules-2\files-2.1\org.apache.httpcomponents\httpmime\4.3.6\cf8bacbf0d476c7f2221f861269365b66447f7ec\httpmime-4.3.6.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="cf8bacbf0d476c7f2221f861269365b66447f7ec">
+        <dex dex="C:\Programming\Android\Programs\AugmentifyGUI\app\build\intermediates\pre-dexed\debug\httpmime-4.3.6-52a62fcf429d2af3b51fbf24f2c4d6b4b5e6162f.jar" />
+    </item>
+
+</items>

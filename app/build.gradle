@@ -1,0 +1,52 @@
+repositories {
+    mavenCentral()
+}
+
+apply plugin: 'com.android.application'
+
+android {
+    compileSdkVersion 17
+    buildToolsVersion "22.0.1"
+
+    defaultConfig {
+        applicationId "com.augmentifygui"
+        minSdkVersion 14
+        targetSdkVersion 17
+    }
+
+    buildTypes {
+        release {
+            minifyEnabled true
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.txt'
+        }
+    }
+}
+
+dependencies {
+    compile 'com.android.support:support-v4:19.+'
+    compile files('libs/picasso-2.1.1.jar')
+    compile files('libs/volley.jar')
+    compile files('libs/zbar.jar')
+    compile files('libs/gson-2.3.1.jar')
+    compile('org.apache.httpcomponents:httpmime:4.3.6')
+    {
+        exclude module: 'httpclient'
+    }
+    compile 'org.apache.httpcomponents:httpcore:4.3.3'
+}
+
+
+android {
+    packagingOptions {
+        exclude 'META-INF/DEPENDENCIES.txt'
+        exclude 'META-INF/LICENSE.txt'
+        exclude 'META-INF/NOTICE.txt'
+        exclude 'META-INF/NOTICE'
+        exclude 'META-INF/LICENSE'
+        exclude 'META-INF/DEPENDENCIES'
+        exclude 'META-INF/notice.txt'
+        exclude 'META-INF/license.txt'
+        exclude 'META-INF/dependencies.txt'
+        exclude 'META-INF/LGPL2.1'
+    }
+}
